@@ -9,3 +9,5 @@ packages
 pubspec.lock
 flutter_export_environment.sh
 .dart_tool
+example/ios/Flutter/ephemeral/flutter_lldb_helper.py
+example/ios/Flutter/ephemeral/flutter_lldbinit
